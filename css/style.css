@@ -1,0 +1,30 @@
+.home {
+    background-color: #edf6ff;
+}
+
+.container .row h3 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.home .container .row .active {
+    background-color: #4dabff;
+}
+
+.home .container .row button {
+    background-color: #fff;
+}
+
+.home .container .row button {
+    background-color: #fff;
+    text-align: center;
+    line-height: 60px;
+    font-weight: 700;
+    font-size: 14px;
+    border: none;
+    transition: all 1s;
+}
+
+/* .home .container .row button:hover {
+    background-color: #4dabff;
+} */
